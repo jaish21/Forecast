@@ -1,5 +1,5 @@
 {
-  "name": "weather-app",
+  "name": "forecast",
   "version": "1.0.0",
   "description": "Get weather of different cities",
   "main": "index.js",
@@ -19,5 +19,6 @@
     "express": "^4.17.1",
     "needle": "^2.5.0",
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {}
 }
